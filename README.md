@@ -1,4 +1,4 @@
-# Hospitality Analysis Dashboard:
+# Codebasics Resume Project #1 : AtliQ Grands' Hospitality Domain Analysis Dashboard:
 
 ## Problem Statement:
 Throughout India, AtliQ Grands is the owner of several five-star hotels. They have spent the last twenty years working in the hotel sector. In the category of luxury/business hotels, AtliQ Grands is losing market share and income as a result of competitors' strategic initiatives and poor management decision-making. In order to recover their market share and revenue, the managing director of AtliQ Grands made the strategic decision to integrate "Business and Data Intelligence." They lack an internal data analytics team, though, therefore they are unable to receive these insights.
