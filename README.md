@@ -36,7 +36,7 @@ In order to generate pertinent insights, support data-driven decision-making, sp
   Based on a time period, this indicator indicates the average number of rooms that guests successfully use in a given day.
 ## Data Model:
 <p align="center">
-  <img src="https://github.com/anisarsad/Hospitality-Analysis/blob/main/Data%20Model.png" height="400">
+  <img src="https://github.com/souvikmazumdar/Codebasics-Resume-Project-1-AtliQ-Grands-Hospitality-Domain-Analysis/blob/main/Data%20Model%20hospitality%20Domain.JPG" height="400">
 </p>
 
 ## Technical & Soft Skills:
