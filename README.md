@@ -13,13 +13,13 @@ Providing a consolidated platform for stakeholders to track and evaluate importa
 In order to generate pertinent insights, support data-driven decision-making, spot patterns, and unearth useful information specifically designed for AtliQ Grand, metrics pertinent to the hotel sector are included. 
 
 - [x] Dashboard: [PDF](https://github.com/anisarsad/Hospitality_Analysis/blob/main/Hospitality_Analysis.pdf)
-- [x] Live Dashboard: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiNWMyMWRiNjEtZGIxNy00MTQxLWE5NGQtOTg2MTBiMzlmOWM5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- [x] Live Dashboard: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiZjNiMGFkNjQtZTNiOS00Y2QzLWE5OWMtMDVjNGY2MzIxZjgwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ## Industry Specific Metrics:
 
 - #### Average Daily Rate (ADR):
-- The percentage of revenue to all rooms sold or reserved,  a measurement of the typical price received for rooms sold over a specific duration.
+  The percentage of revenue to all rooms sold or reserved,  a measurement of the typical price received for rooms sold over a specific duration.
 
 - #### Realisation %:
   The percentage of successfully "checked out" reservations across all reservations.
