@@ -12,7 +12,7 @@ Providing a consolidated platform for stakeholders to track and evaluate importa
 
 In order to generate pertinent insights, support data-driven decision-making, spot patterns, and unearth useful information specifically designed for AtliQ Grand, metrics pertinent to the hotel sector are included. 
 
-- [x] Dashboard: [PDF](https://github.com/anisarsad/Hospitality_Analysis/blob/main/Hospitality_Analysis.pdf)
+- [x] Project Overview: [PDF](https://github.com/souvikmazumdar/Codebasics-Resume-Project-1-AtliQ-Grands-Hospitality-Domain-Analysis/blob/main/Codebasics%20Resume%20Project%20Challenge%20%231.pdf)
 - [x] Live Dashboard: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiZjNiMGFkNjQtZTNiOS00Y2QzLWE5OWMtMDVjNGY2MzIxZjgwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
